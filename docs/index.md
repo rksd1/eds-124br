@@ -4,4 +4,4 @@
 
 [Show What You Know: Write and Explain A Program](https://www.youtube.com/embed/oh86dWH743M)
 
-[Teaching Programming Portfolio - Lesson Plan](https://www.youtube.com/embed/nNIR4iyUHlo)
+[Teaching Programming Portfolio - Lesson Plan](https://www.youtube.com/embed/0podZdlXEkg)
