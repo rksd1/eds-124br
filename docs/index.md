@@ -15,3 +15,5 @@
 [Show What You Know: Write and Explain A Program 5](https://www.youtube.com/embed/QxjhtAw5XOI)
 
 [Show What You Know: Write and Explain A Program 6](https://www.youtube.com/embed/mavrj4j6MPc)
+
+[Show What You Know: Write and Explain A Program 7](https://www.youtube.com/embed/0s-GhUC-knQ)
